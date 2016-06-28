@@ -96,3 +96,4 @@ Kazajistán: Astaná
 Kenia: Nairobi
 Kirguistán: Biskek
 Kiribati: Tarawa
+Kuwait: Kuwait
