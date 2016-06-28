@@ -109,3 +109,4 @@ Luxemburgo: Luxemburgo
 Madagascar: Antananarivo
 Malasia: Kuala Lumpur
 Malaui: Lilongüe
+Maldivas: Malé
