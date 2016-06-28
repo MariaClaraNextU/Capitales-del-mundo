@@ -99,3 +99,4 @@ Kiribati: Tarawa
 Kuwait: Kuwait
 Laos: Vientián
 Lesoto: Maseru
+Letonia: Riga
