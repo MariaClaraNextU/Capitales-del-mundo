@@ -87,3 +87,4 @@ Irlanda: Dublín
 Islandia: Reikiavik
 Islas Marshall: Majuro
 Islas Salomón: Honiara
+Israel: Jerusalén
