@@ -123,3 +123,4 @@ Mongolia: Ulán Bator
 Montenegro: Podgorica
 Mozambique: Maputo
 Namibia: Windhoek
+Nauru: Yaren
