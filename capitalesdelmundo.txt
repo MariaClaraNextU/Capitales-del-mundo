@@ -124,3 +124,4 @@ Montenegro: Podgorica
 Mozambique: Maputo
 Namibia: Windhoek
 Nauru: Yaren
+Nepal: Katmandú
