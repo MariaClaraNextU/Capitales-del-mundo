@@ -12,3 +12,4 @@ Armenia: Ereván
 Australia: Canberra
 Austria: Viena
 Azerbaiyán: Bakú
+Bahamas: Nasáu
