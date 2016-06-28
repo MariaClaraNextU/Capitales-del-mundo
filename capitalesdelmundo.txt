@@ -9,3 +9,4 @@ Arabia Saudita: Riad
 Argelia: Argel
 Argentina: Buenos Aires
 Armenia: Ereván
+Australia: Canberra
