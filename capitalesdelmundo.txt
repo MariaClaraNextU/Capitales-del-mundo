@@ -36,3 +36,4 @@ Camerún: Yaundé
 Canadá: Ottawa
 Catar: Doha
 Chad: Yamena
+Chile: Santiago de Chile
