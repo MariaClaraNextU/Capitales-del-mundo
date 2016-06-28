@@ -157,3 +157,4 @@ San Marino: San Marino
 San Vicente y las Granadinas:  Kingstown
 Santa Lucía: Castries
 Santo Tomé y Príncipe: Santo Tomé
+Senegal: Dakar
