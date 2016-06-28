@@ -65,3 +65,4 @@ Filipinas: Manila
 Finlandia: Helsinki
 Fiyi: Suva
 Francia: París
+Gabón: Libreville
