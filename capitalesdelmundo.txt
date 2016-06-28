@@ -80,3 +80,4 @@ Haití: Puerto Príncipe
 Honduras: Tegucigalpa
 Hungría: Budapest
 India: Nueva Delhi
+Indonesia: Yakarta
