@@ -11,3 +11,4 @@ Argentina: Buenos Aires
 Armenia: Ereván
 Australia: Canberra
 Austria: Viena
+Azerbaiyán: Bakú
