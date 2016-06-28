@@ -67,3 +67,4 @@ Fiyi: Suva
 Francia: París
 Gabón: Libreville
 Gambia: Banjul
+Georgia: Tiflis
