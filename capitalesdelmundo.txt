@@ -152,3 +152,4 @@ Ruanda: Kigali
 Rumanía: Bucarest
 Rusia: Moscú
 Samoa: Apia
+San Cristóbal y Nieves: Basseterre
