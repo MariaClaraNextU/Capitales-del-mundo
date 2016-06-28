@@ -90,3 +90,4 @@ Islas Salomón: Honiara
 Israel: Jerusalén
 Italia: Roma
 Jamaica: Kingston
+Japón: Tokio
