@@ -184,3 +184,4 @@ Turquía: Ankara
 Tuvalu: Funafuti
 Ucrania: Kiev
 Uganda: Kampala
+Uruguay: Montevideo
