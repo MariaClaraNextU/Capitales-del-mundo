@@ -106,3 +106,4 @@ Libia: Trípoli
 Liechtenstein: Vaduz
 Lituania: Vilna
 Luxemburgo: Luxemburgo
+Madagascar: Antananarivo
