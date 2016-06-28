@@ -49,3 +49,4 @@ Costa Rica: San José
 Croacia: Zagreb
 Cuba: La Habana
 Dinamarca: Copenhague
+Dominica: Roseau
