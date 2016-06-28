@@ -51,3 +51,4 @@ Cuba: La Habana
 Dinamarca: Copenhague
 Dominica: Roseau
 Ecuador: Quito
+Egipto: El Cairo
