@@ -63,3 +63,4 @@ Estonia: Tallin
 Etiopía: Adís Abeba
 Filipinas: Manila
 Finlandia: Helsinki
+Fiyi: Suva
