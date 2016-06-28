@@ -40,3 +40,4 @@ Chile: Santiago de Chile
 China: Pekín
 Chipre: Nicosia
 Ciudad del Vaticano: Ciudad del Vaticano
+Colombia: Bogotá
