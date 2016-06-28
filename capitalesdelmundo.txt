@@ -190,3 +190,4 @@ Vanuatu: Port Vila
 Venezuela: Caracas
 Vietnam: Hanói
 Yemen: Saná
+Yibuti: Yibuti
