@@ -91,3 +91,4 @@ Israel: Jerusalén
 Italia: Roma
 Jamaica: Kingston
 Japón: Tokio
+Jordania: Amán
