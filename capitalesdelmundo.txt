@@ -52,3 +52,4 @@ Dinamarca: Copenhague
 Dominica: Roseau
 Ecuador: Quito
 Egipto: El Cairo
+El Salvador: San Salvador
