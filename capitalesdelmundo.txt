@@ -74,3 +74,4 @@ Grecia: Atenas
 Guatemala: Ciudad de Guatemala
 Guyana: Georgetown
 Guinea: Conakri
+Guinea-Bisáu: Bisáu
