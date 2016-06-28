@@ -76,3 +76,4 @@ Guyana: Georgetown
 Guinea: Conakri
 Guinea-Bisáu: Bisáu
 Guinea Ecuatorial: Malabo
+Haití: Puerto Príncipe
