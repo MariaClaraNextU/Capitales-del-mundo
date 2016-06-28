@@ -10,3 +10,4 @@ Argelia: Argel
 Argentina: Buenos Aires
 Armenia: Ereván
 Australia: Canberra
+Austria: Viena
