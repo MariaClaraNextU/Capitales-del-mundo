@@ -50,3 +50,4 @@ Croacia: Zagreb
 Cuba: La Habana
 Dinamarca: Copenhague
 Dominica: Roseau
+Ecuador: Quito
