@@ -107,3 +107,4 @@ Liechtenstein: Vaduz
 Lituania: Vilna
 Luxemburgo: Luxemburgo
 Madagascar: Antananarivo
+Malasia: Kuala Lumpur
