@@ -138,3 +138,4 @@ Panamá: Panamá
 Papúa Nueva Guinea: Port Moresby
 Paraguay: Asunción
 Perú: Lima
+Polonia: Varsovia
