@@ -191,3 +191,4 @@ Venezuela: Caracas
 Vietnam: Hanói
 Yemen: Saná
 Yibuti: Yibuti
+Zambia: Lusaka
