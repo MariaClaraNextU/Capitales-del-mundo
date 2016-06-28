@@ -127,3 +127,4 @@ Nauru: Yaren
 Nepal: Katmandú
 Nicaragua: Managua
 Níger: Niamey
+Nigeria: Abuya
