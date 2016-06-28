@@ -97,3 +97,4 @@ Kenia: Nairobi
 Kirguistán: Biskek
 Kiribati: Tarawa
 Kuwait: Kuwait
+Laos: Vientián
