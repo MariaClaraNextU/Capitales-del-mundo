@@ -3,3 +3,4 @@ Afganistán: Kabul
 Albania: Tirana
 Alemania: Berlín
 Andorra: Andorra la Vieja
+Angola: Luanda
