@@ -111,3 +111,4 @@ Malasia: Kuala Lumpur
 Malaui: Lilongüe
 Maldivas: Malé
 Malí: Bamako
+Malta: La Valeta
