@@ -82,3 +82,4 @@ Hungría: Budapest
 India: Nueva Delhi
 Indonesia: Yakarta
 Irak: Bagdad
+Irán: Teherán
