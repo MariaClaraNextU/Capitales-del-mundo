@@ -103,3 +103,4 @@ Letonia: Riga
 Líbano: Beirut
 Liberia: Monrovia
 Libia: Trípoli
+Liechtenstein: Vaduz
