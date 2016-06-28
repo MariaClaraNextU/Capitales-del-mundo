@@ -192,3 +192,4 @@ Vietnam: Hanói
 Yemen: Saná
 Yibuti: Yibuti
 Zambia: Lusaka
+Zimbabue: Harare
