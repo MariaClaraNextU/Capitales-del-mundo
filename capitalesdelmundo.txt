@@ -187,3 +187,4 @@ Uganda: Kampala
 Uruguay: Montevideo
 Uzbekistán: Taskent
 Vanuatu: Port Vila
+Venezuela: Caracas
