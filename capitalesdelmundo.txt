@@ -26,3 +26,4 @@ Bosnia y Herzegovina: Sarajevo
 Botsuana: Gaborone
 Brasil: Brasilia
 Brunéi: Bandar Seri Begawan
+Bulgaria: Sofía
