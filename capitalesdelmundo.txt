@@ -41,3 +41,4 @@ China: Pekín
 Chipre: Nicosia
 Ciudad del Vaticano: Ciudad del Vaticano
 Colombia: Bogotá
+Comoras: Moroni
