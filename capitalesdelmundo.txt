@@ -113,3 +113,4 @@ Maldivas: Malé
 Malí: Bamako
 Malta: La Valeta
 Marruecos: Rabat
+Mauricio: Port Louis
