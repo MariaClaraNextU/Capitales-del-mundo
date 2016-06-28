@@ -165,3 +165,4 @@ Singapur: Singapur
 Siria: Damasco
 Somalia: Mogadiscio
 Sri Lanka: Sri Jayawardenapura Kotte
+Suazilandia: Mbabane
