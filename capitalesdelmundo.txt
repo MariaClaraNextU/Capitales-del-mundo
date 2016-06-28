@@ -75,3 +75,4 @@ Guatemala: Ciudad de Guatemala
 Guyana: Georgetown
 Guinea: Conakri
 Guinea-Bisáu: Bisáu
+Guinea Ecuatorial: Malabo
