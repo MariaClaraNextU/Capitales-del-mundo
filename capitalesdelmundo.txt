@@ -125,3 +125,4 @@ Mozambique: Maputo
 Namibia: Windhoek
 Nauru: Yaren
 Nepal: Katmandú
+Nicaragua: Managua
