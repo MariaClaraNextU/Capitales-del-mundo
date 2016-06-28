@@ -53,3 +53,4 @@ Dominica: Roseau
 Ecuador: Quito
 Egipto: El Cairo
 El Salvador: San Salvador
+Emiratos Árabes Unidos: Abu Dabi
