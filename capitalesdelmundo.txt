@@ -44,3 +44,4 @@ Colombia: Bogotá
 Comoras: Moroni
 Corea del Norte: Pionyang
 Corea del Sur: Seúl
+Costa de Marfil: Yamusukro
