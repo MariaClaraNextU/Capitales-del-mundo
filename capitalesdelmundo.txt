@@ -120,3 +120,4 @@ Micronesia: Palikir
 Moldavia: Chisináu
 Mónaco: Mónaco
 Mongolia: Ulán Bator
+Montenegro: Podgorica
