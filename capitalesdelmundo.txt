@@ -21,3 +21,4 @@ Belice: Belmopán
 Benín: Porto Novo
 Bielorrusia: Minsk
 Birmania: Naipyidó
+Bolivia: Sucre
