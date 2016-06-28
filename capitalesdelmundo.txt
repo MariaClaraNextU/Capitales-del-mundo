@@ -70,3 +70,4 @@ Gambia: Banjul
 Georgia: Tiflis
 Ghana: Acra
 Granada: Saint George
+Grecia: Atenas
