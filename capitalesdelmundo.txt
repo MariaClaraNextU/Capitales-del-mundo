@@ -175,3 +175,4 @@ Tailandia: Bangkok
 Tanzania: Dodoma
 Tayikistán: Dusambé
 Timor Oriental: Dili
+Togo: Lomé
