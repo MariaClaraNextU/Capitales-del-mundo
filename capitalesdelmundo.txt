@@ -128,3 +128,4 @@ Nepal: Katmandú
 Nicaragua: Managua
 Níger: Niamey
 Nigeria: Abuya
+Noruega: Oslo
